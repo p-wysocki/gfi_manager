@@ -1,0 +1,1 @@
+Usage: `python main.py 7` will list issues without an update for 3 days or more. No value given will default to 7.
